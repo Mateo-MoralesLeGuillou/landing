@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Roboto&display=swap');
+@import url("components/Container.css");
+@import url("components/Avatar.css");
+@import url("components/Banner.css");
+@import url("components/Button.css");
+@import url("components/Card.css");
+@import url("components/Sidebar.css");
+@import url("components/Page-content.css");
+@import url("components/Content-Cards.css");
+
+body {
+    font-family: 'EB Garamond', serif;
+    font-size: 15px;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: "EB Garamond", serif;
+    font-weight: bold;
+}
+
+a {
+    font-size: 25px;
+    text-decoration: none;
+}
+

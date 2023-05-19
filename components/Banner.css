@@ -1,0 +1,46 @@
+.Banner {
+    margin-left: 180px;
+    background-image: linear-gradient(-225deg, rgba(0,0,0,1)0%, rgba(0,0,3, 0.5)60%), url(../images/backround.jpg);
+    color: white;
+    padding: 50px 0px;
+    background-size: cover;
+    background-position: center;
+}
+
+.Banner h1 {
+    margin-left: 20px;
+    font-size: 50px;
+}
+
+.Banner h3 {
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: lighter;
+    opacity: 0.8;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 1200px) {
+    .Banner {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .Banner {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .Banner {
+        width: 100%;
+    }
+}
+
+@media (max-width: 480px) {
+    .Banner {
+        width: 100%;
+    }
+}
+

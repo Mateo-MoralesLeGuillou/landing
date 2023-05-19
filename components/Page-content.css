@@ -1,0 +1,10 @@
+.Page-content {
+    height:100%;
+    background: linear-gradient(0deg, rgba(98, 213, 13, 0.8) 20%, rgba(203, 245, 171, 0.6) 60%) no-repeat;
+}
+
+@media (max-width: 600px) {
+ .Page-content {
+    margin-left: 0;
+ }
+}
